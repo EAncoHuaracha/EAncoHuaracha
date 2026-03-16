@@ -15,11 +15,9 @@ Ingeniero de Sistemas (Tercio Superior - UNSA) apasionado por construir interfac
 
 ### 📊 Estadísticas de GitHub
 
-![Erick Anco GitHub Stats](https://github-readme-stats.vercel.app/api?username=EAncoHuaracha&show_icons=true&theme=tokyonight&count_private=true)
+![Erick Anco GitHub Stats](https://github-readme-stats-six-xi-96.vercel.app/api?username=EAncoHuaracha&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Full%20Stack%20Development%20Analysis)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EAncoHuaracha&layout=donut&theme=tokyonight&hide=c++,c&count_private=true)
-
----
+![Top Langs](https://github-readme-stats-six-xi-96.vercel.app/api/top-langs/?username=EAncoHuaracha&layout=donut&theme=tokyonight&hide=c%2B%2B,c,makefile,&count_private=true)
 
 ### 🚀 Sobre mí
 - 💻 Desarrollando soluciones Frontend de alta escala con **Angular** y **Tailwind CSS**.
