@@ -12,8 +12,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: EAncoHuaracha
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: terminal
+          base: header, metadata
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
